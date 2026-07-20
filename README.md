@@ -25,6 +25,15 @@ Amity University, Noida
 
 ---
 
+### 3. MedCare Hospital Analytics Dashboard — Tableau Public
+**Tools:** Tableau Public
+**Dataset:** Hospital patient visit data — 796 rows across departments, cities, and insurance types
+**What I built:** Interactive dashboard with 5 charts covering regional treatment cost analysis, department profitability, monthly visit trends, insurance type profit comparison, and a cost vs profit scatter plot by department.
+
+[View Live Dashboard](https://public.tableau.com/app/profile/kaira.srivastava/viz/MedCare_Hospital_Dashboard/Dashboard1?publish=yes)
+
+---
+
 ## Skills
 Excel | SQL (PostgreSQL) | Tableau | Data Cleaning | Dashboard Design | Business Analysis
 
